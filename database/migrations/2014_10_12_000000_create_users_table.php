@@ -24,15 +24,6 @@ return new class extends Migration
         });
     }
 
-    // $table->id();
-    //         $table->string('name');
-    //         $table->string('contact');
-    //         $table->string('email')->unique();
-    //         $table->string('password');
-    //         $table->rememberToken();
-    //         $table->softDeletes();
-    //         $table->timestamps();
-
     /**
      * Reverse the migrations.
      */
